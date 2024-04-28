@@ -10,11 +10,11 @@ import { useTheme } from "./context/ThemeContext";
 
 // ex - 01: header component with prop types
 
-type MyComponentProps = {
-  prop1: string;
-  prop2: number;
-  prop3: boolean;
-};
+// type MyComponentProps = {
+//   prop1: string;
+//   prop2: number;
+//   prop3: boolean;
+// };
 
 // const MyComponent: React.FC<MyComponentProps> = ({ prop1, prop2, prop3 }) => {};
 
